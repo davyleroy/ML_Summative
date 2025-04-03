@@ -11,7 +11,7 @@ This project implements and compares two reinforcement learning approaches:
 
 ## Environment
 
-![Environment Visualization](environment_visualization.png)
+![Environment Visualization](results/Env.png)
 
 The environment is a grid-based simulation where:
 
